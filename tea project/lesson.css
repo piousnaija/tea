@@ -1,0 +1,18 @@
+.container{
+display: flex;
+width: 100%;
+overflow: hidden;
+}
+.img{
+    display: flex;
+    gap: 10px;
+    height: 10rem;
+    width: 20rem;
+}
+h4{
+    text-align: center;
+}
+.text{
+    height: 10%;
+    width: 50%;
+}
